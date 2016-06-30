@@ -76,6 +76,7 @@
 
 
 ###演示视频
+[http://v.qq.com/page/h/l/2/h0310pa7xl2.html](http://v.qq.com/page/h/l/2/h0310pa7xl2.html)
 
 ###写在最后
 1. 每个模块不不清楚怎么用的可以参考我之前写的基础教程；
